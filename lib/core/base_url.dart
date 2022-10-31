@@ -1,0 +1,1 @@
+const String baseUrl='https://berry.parfaih.com/api/v1';
